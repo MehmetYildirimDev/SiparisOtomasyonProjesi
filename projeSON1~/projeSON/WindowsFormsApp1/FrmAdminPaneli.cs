@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace WindowsFormsApp1
 {
@@ -16,11 +17,13 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-
+        SqlBaglanti sqlBaglanti = new SqlBaglanti();
         private void FrmAdminPaneli_Load(object sender, EventArgs e)
         {
-            this.tbl_MusteriTableAdapter.Fill(this.siparisProjesiDataSet.Tbl_Musteri);
-            //Datagrid ile veriler gösteriliyor
+            DataTable dt = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter("Select * From Tbl_Musteri", sqlBaglanti.Adres);
+            da.Fill(dt);
+            dataGridView1.DataSource = dt;
         }
 
         private void ürünEkleToolStripMenuItem_Click(object sender, EventArgs e)

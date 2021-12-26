@@ -21,7 +21,10 @@ namespace WindowsFormsApp1
 
         public void BilgileriGoster()
         {
-            this.tbl_UrunTableAdapter.Fill(this.siparisProjesiDataSet.Tbl_Urun);
+            DataTable dt = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter("Select * From Tbl_Urun", sqlBaglanti.Adres);
+            da.Fill(dt);
+            dataGridView1.DataSource = dt;
         }
 
         private void FrmUrunGuncelle_Load(object sender, EventArgs e)

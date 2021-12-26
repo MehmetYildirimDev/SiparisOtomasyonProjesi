@@ -32,13 +32,6 @@ namespace WindowsFormsApp1
             this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.urunIDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.urunAdiDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.urunMiktariDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.urunBirimFiyatiDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.vergiTutariDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.urunAgirligiDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.urunAciklamasiDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tblUrunBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.siparisProjesiDataSet = new WindowsFormsApp1.SiparisProjesiDataSet();
             this.tbl_UrunTableAdapter = new WindowsFormsApp1.SiparisProjesiDataSetTableAdapters.Tbl_UrunTableAdapter();
@@ -79,20 +72,10 @@ namespace WindowsFormsApp1
             // 
             // dataGridView1
             // 
-            this.dataGridView1.AutoGenerateColumns = false;
             this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.ColumnHeader;
             this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCellsExceptHeaders;
             this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.urunIDDataGridViewTextBoxColumn,
-            this.urunAdiDataGridViewTextBoxColumn,
-            this.urunMiktariDataGridViewTextBoxColumn,
-            this.urunBirimFiyatiDataGridViewTextBoxColumn,
-            this.vergiTutariDataGridViewTextBoxColumn,
-            this.urunAgirligiDataGridViewTextBoxColumn,
-            this.urunAciklamasiDataGridViewTextBoxColumn});
-            this.dataGridView1.DataSource = this.tblUrunBindingSource;
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.Location = new System.Drawing.Point(2, 38);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -103,69 +86,6 @@ namespace WindowsFormsApp1
             this.dataGridView1.Size = new System.Drawing.Size(1242, 236);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
-            // 
-            // urunIDDataGridViewTextBoxColumn
-            // 
-            this.urunIDDataGridViewTextBoxColumn.DataPropertyName = "UrunID";
-            this.urunIDDataGridViewTextBoxColumn.HeaderText = "UrunID";
-            this.urunIDDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.urunIDDataGridViewTextBoxColumn.Name = "urunIDDataGridViewTextBoxColumn";
-            this.urunIDDataGridViewTextBoxColumn.ReadOnly = true;
-            this.urunIDDataGridViewTextBoxColumn.Width = 144;
-            // 
-            // urunAdiDataGridViewTextBoxColumn
-            // 
-            this.urunAdiDataGridViewTextBoxColumn.DataPropertyName = "UrunAdi";
-            this.urunAdiDataGridViewTextBoxColumn.HeaderText = "UrunAdi";
-            this.urunAdiDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.urunAdiDataGridViewTextBoxColumn.Name = "urunAdiDataGridViewTextBoxColumn";
-            this.urunAdiDataGridViewTextBoxColumn.ReadOnly = true;
-            this.urunAdiDataGridViewTextBoxColumn.Width = 161;
-            // 
-            // urunMiktariDataGridViewTextBoxColumn
-            // 
-            this.urunMiktariDataGridViewTextBoxColumn.DataPropertyName = "UrunMiktari";
-            this.urunMiktariDataGridViewTextBoxColumn.HeaderText = "UrunMiktari";
-            this.urunMiktariDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.urunMiktariDataGridViewTextBoxColumn.Name = "urunMiktariDataGridViewTextBoxColumn";
-            this.urunMiktariDataGridViewTextBoxColumn.ReadOnly = true;
-            this.urunMiktariDataGridViewTextBoxColumn.Width = 211;
-            // 
-            // urunBirimFiyatiDataGridViewTextBoxColumn
-            // 
-            this.urunBirimFiyatiDataGridViewTextBoxColumn.DataPropertyName = "UrunBirimFiyati";
-            this.urunBirimFiyatiDataGridViewTextBoxColumn.HeaderText = "UrunBirimFiyati";
-            this.urunBirimFiyatiDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.urunBirimFiyatiDataGridViewTextBoxColumn.Name = "urunBirimFiyatiDataGridViewTextBoxColumn";
-            this.urunBirimFiyatiDataGridViewTextBoxColumn.ReadOnly = true;
-            this.urunBirimFiyatiDataGridViewTextBoxColumn.Width = 266;
-            // 
-            // vergiTutariDataGridViewTextBoxColumn
-            // 
-            this.vergiTutariDataGridViewTextBoxColumn.DataPropertyName = "VergiTutari";
-            this.vergiTutariDataGridViewTextBoxColumn.HeaderText = "VergiTutari";
-            this.vergiTutariDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.vergiTutariDataGridViewTextBoxColumn.Name = "vergiTutariDataGridViewTextBoxColumn";
-            this.vergiTutariDataGridViewTextBoxColumn.ReadOnly = true;
-            this.vergiTutariDataGridViewTextBoxColumn.Width = 198;
-            // 
-            // urunAgirligiDataGridViewTextBoxColumn
-            // 
-            this.urunAgirligiDataGridViewTextBoxColumn.DataPropertyName = "UrunAgirligi";
-            this.urunAgirligiDataGridViewTextBoxColumn.HeaderText = "UrunAgirligi";
-            this.urunAgirligiDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.urunAgirligiDataGridViewTextBoxColumn.Name = "urunAgirligiDataGridViewTextBoxColumn";
-            this.urunAgirligiDataGridViewTextBoxColumn.ReadOnly = true;
-            this.urunAgirligiDataGridViewTextBoxColumn.Width = 215;
-            // 
-            // urunAciklamasiDataGridViewTextBoxColumn
-            // 
-            this.urunAciklamasiDataGridViewTextBoxColumn.DataPropertyName = "UrunAciklamasi";
-            this.urunAciklamasiDataGridViewTextBoxColumn.HeaderText = "UrunAciklamasi";
-            this.urunAciklamasiDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.urunAciklamasiDataGridViewTextBoxColumn.Name = "urunAciklamasiDataGridViewTextBoxColumn";
-            this.urunAciklamasiDataGridViewTextBoxColumn.ReadOnly = true;
-            this.urunAciklamasiDataGridViewTextBoxColumn.Width = 270;
             // 
             // tblUrunBindingSource
             // 
@@ -390,13 +310,6 @@ namespace WindowsFormsApp1
         private SiparisProjesiDataSet siparisProjesiDataSet;
         private System.Windows.Forms.BindingSource tblUrunBindingSource;
         private SiparisProjesiDataSetTableAdapters.Tbl_UrunTableAdapter tbl_UrunTableAdapter;
-        private System.Windows.Forms.DataGridViewTextBoxColumn urunIDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn urunAdiDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn urunMiktariDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn urunBirimFiyatiDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn vergiTutariDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn urunAgirligiDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn urunAciklamasiDataGridViewTextBoxColumn;
         private System.Windows.Forms.MaskedTextBox mskMiktar;
         private System.Windows.Forms.TextBox txtAgirlik;
         private System.Windows.Forms.Label label1;

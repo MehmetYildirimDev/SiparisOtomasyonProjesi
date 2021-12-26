@@ -36,26 +36,20 @@ namespace WindowsFormsApp1
             this.ürünGüncelleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.grbMusteriBilgi = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tblMusteriBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.tblMusteriBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
             this.siparisProjesiDataSet = new WindowsFormsApp1.SiparisProjesiDataSet();
+            this.tblMusteriBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.tblMusteriBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.siparisProjesiDataSet1BindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.tbl_MusteriTableAdapter = new WindowsFormsApp1.SiparisProjesiDataSetTableAdapters.Tbl_MusteriTableAdapter();
-            this.tblMusteriBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
             this.menuStrip1.SuspendLayout();
             this.grbMusteriBilgi.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.siparisProjesiDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.siparisProjesiDataSet1BindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource2)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -101,93 +95,42 @@ namespace WindowsFormsApp1
             this.grbMusteriBilgi.BackColor = System.Drawing.Color.Firebrick;
             this.grbMusteriBilgi.Controls.Add(this.dataGridView1);
             this.grbMusteriBilgi.ForeColor = System.Drawing.Color.Black;
-            this.grbMusteriBilgi.Location = new System.Drawing.Point(28, 51);
+            this.grbMusteriBilgi.Location = new System.Drawing.Point(75, 54);
             this.grbMusteriBilgi.Name = "grbMusteriBilgi";
-            this.grbMusteriBilgi.Size = new System.Drawing.Size(814, 426);
+            this.grbMusteriBilgi.Size = new System.Drawing.Size(743, 426);
             this.grbMusteriBilgi.TabIndex = 1;
             this.grbMusteriBilgi.TabStop = false;
             this.grbMusteriBilgi.Text = "Müşteri Bilgileri";
             // 
             // dataGridView1
             // 
-            this.dataGridView1.AutoGenerateColumns = false;
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dataGridView1.BackgroundColor = System.Drawing.Color.Black;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dataGridViewTextBoxColumn1,
-            this.dataGridViewTextBoxColumn2,
-            this.dataGridViewTextBoxColumn3,
-            this.dataGridViewTextBoxColumn4,
-            this.dataGridViewTextBoxColumn5,
-            this.dataGridViewTextBoxColumn6});
-            this.dataGridView1.DataSource = this.tblMusteriBindingSource2;
+            this.dataGridView1.ColumnHeadersHeight = 29;
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.GridColor = System.Drawing.SystemColors.ControlText;
             this.dataGridView1.Location = new System.Drawing.Point(3, 37);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(808, 386);
+            this.dataGridView1.Size = new System.Drawing.Size(737, 386);
             this.dataGridView1.TabIndex = 0;
             // 
-            // dataGridViewTextBoxColumn1
+            // tblMusteriBindingSource2
             // 
-            this.dataGridViewTextBoxColumn1.DataPropertyName = "id";
-            this.dataGridViewTextBoxColumn1.HeaderText = "id";
-            this.dataGridViewTextBoxColumn1.MinimumWidth = 6;
-            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
-            this.dataGridViewTextBoxColumn1.ReadOnly = true;
-            this.dataGridViewTextBoxColumn1.Width = 125;
-            // 
-            // dataGridViewTextBoxColumn2
-            // 
-            this.dataGridViewTextBoxColumn2.DataPropertyName = "Adi";
-            this.dataGridViewTextBoxColumn2.HeaderText = "Adi";
-            this.dataGridViewTextBoxColumn2.MinimumWidth = 6;
-            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
-            this.dataGridViewTextBoxColumn2.Width = 125;
-            // 
-            // dataGridViewTextBoxColumn3
-            // 
-            this.dataGridViewTextBoxColumn3.DataPropertyName = "Soyadi";
-            this.dataGridViewTextBoxColumn3.HeaderText = "Soyadi";
-            this.dataGridViewTextBoxColumn3.MinimumWidth = 6;
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            this.dataGridViewTextBoxColumn3.Width = 125;
-            // 
-            // dataGridViewTextBoxColumn4
-            // 
-            this.dataGridViewTextBoxColumn4.DataPropertyName = "KullaniciAdi";
-            this.dataGridViewTextBoxColumn4.HeaderText = "KullaniciAdi";
-            this.dataGridViewTextBoxColumn4.MinimumWidth = 6;
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            this.dataGridViewTextBoxColumn4.Width = 125;
-            // 
-            // dataGridViewTextBoxColumn5
-            // 
-            this.dataGridViewTextBoxColumn5.DataPropertyName = "Sifre";
-            this.dataGridViewTextBoxColumn5.HeaderText = "Sifre";
-            this.dataGridViewTextBoxColumn5.MinimumWidth = 6;
-            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
-            this.dataGridViewTextBoxColumn5.Width = 125;
-            // 
-            // dataGridViewTextBoxColumn6
-            // 
-            this.dataGridViewTextBoxColumn6.DataPropertyName = "Adresi";
-            this.dataGridViewTextBoxColumn6.HeaderText = "Adresi";
-            this.dataGridViewTextBoxColumn6.MinimumWidth = 6;
-            this.dataGridViewTextBoxColumn6.Name = "dataGridViewTextBoxColumn6";
-            this.dataGridViewTextBoxColumn6.Width = 125;
-            // 
-            // tblMusteriBindingSource1
-            // 
-            this.tblMusteriBindingSource1.DataMember = "Tbl_Musteri";
-            this.tblMusteriBindingSource1.DataSource = this.siparisProjesiDataSet;
+            this.tblMusteriBindingSource2.DataMember = "Tbl_Musteri";
+            this.tblMusteriBindingSource2.DataSource = this.siparisProjesiDataSet;
             // 
             // siparisProjesiDataSet
             // 
             this.siparisProjesiDataSet.DataSetName = "SiparisProjesiDataSet";
             this.siparisProjesiDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // tblMusteriBindingSource1
+            // 
+            this.tblMusteriBindingSource1.DataMember = "Tbl_Musteri";
+            this.tblMusteriBindingSource1.DataSource = this.siparisProjesiDataSet;
             // 
             // tblMusteriBindingSource
             // 
@@ -196,11 +139,6 @@ namespace WindowsFormsApp1
             // tbl_MusteriTableAdapter
             // 
             this.tbl_MusteriTableAdapter.ClearBeforeFill = true;
-            // 
-            // tblMusteriBindingSource2
-            // 
-            this.tblMusteriBindingSource2.DataMember = "Tbl_Musteri";
-            this.tblMusteriBindingSource2.DataSource = this.siparisProjesiDataSet;
             // 
             // FrmAdminPaneli
             // 
@@ -219,11 +157,11 @@ namespace WindowsFormsApp1
             this.menuStrip1.PerformLayout();
             this.grbMusteriBilgi.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.siparisProjesiDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.siparisProjesiDataSet1BindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.tblMusteriBindingSource2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -250,12 +188,6 @@ namespace WindowsFormsApp1
         private SiparisProjesiDataSet siparisProjesiDataSet;
         private System.Windows.Forms.BindingSource tblMusteriBindingSource1;
         private SiparisProjesiDataSetTableAdapters.Tbl_MusteriTableAdapter tbl_MusteriTableAdapter;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn6;
         private System.Windows.Forms.BindingSource tblMusteriBindingSource2;
     }
 }
