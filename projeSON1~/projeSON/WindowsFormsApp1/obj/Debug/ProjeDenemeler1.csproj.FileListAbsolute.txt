@@ -1,0 +1,102 @@
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminPaneli.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMusteriKayit.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.GenerateResource.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunEkle.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunGuncelle.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSiparisOlustur.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLoginEkran.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminPaneli.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLoginEkran.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMusteriKayit.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSiparisOlustur.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunEkle.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunGuncelle.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.GenerateResource.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminPaneli.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLoginEkran.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMusteriKayit.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSiparisOlustur.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunEkle.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunGuncelle.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.GenerateResource.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje git ver gibi\10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCekOdeme.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKrediKartOdeme.resources
+C:\Users\Mehmet Yıldırım\Desktop\OOP Proje\Proje denemeleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmOdemeSecim.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.AssemblyReference.cache
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminPaneli.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCekOdeme.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKrediKartOdeme.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLoginEkran.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMusteriKayit.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmOdemeSecim.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSiparisOlustur.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunEkle.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunGuncelle.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.GenerateResource.cache
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.CoreCompileInputs.cache
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ebru\Desktop\Siparis otomasyonu Projesi\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminPaneli.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCekOdeme.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKrediKartOdeme.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLoginEkran.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMusteriKayit.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmOdemeSecim.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSiparisOlustur.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunEkle.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunGuncelle.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.GenerateResource.cache
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\projeSON1~\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAdminPaneli.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCekOdeme.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKrediKartOdeme.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLoginEkran.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMusteriKayit.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmOdemeSecim.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSiparisOlustur.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunEkle.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmUrunGuncelle.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.GenerateResource.cache
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\ProjeDenemeler1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mehmet Yıldırım\Desktop\GitHub\projeSON1~\projeSON\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

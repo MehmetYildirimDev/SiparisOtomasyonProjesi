@@ -1,0 +1,1 @@
+Data Source=LAPTOP-633OD787;Initial Catalog=SiparisProjesi;Integrated Security=True
